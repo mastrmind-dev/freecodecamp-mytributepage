@@ -1,0 +1,48 @@
+#header-img {
+    width: 200px;
+    height: auto;
+}
+
+#contents{
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.form-email{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .icon {
+        left: 0 !important;
+        color: red !important;
+        border-style: double;
+        width: 100px !important;
+    }
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.box{
+    border: 2px solid tomato;
+    width: 30%;
+}
+
+.card-title{
+    color: red;
+}
+
+.container{
+    background-color: hsl(0, 100%, 70%);;
+}
+
+nav{
+    color: black;
+    font-weight: 800;
+}

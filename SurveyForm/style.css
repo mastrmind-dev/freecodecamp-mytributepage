@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://4.bp.blogspot.com/-Xe2mWaC5Tu8/XJeCRuxkIsI/AAAAAAAA8pY/GFPBGWgpOkM_2DwyoFS_9RqRlfQK_7JqACLcBGAs/s640/MX%2BVolumes%2B13.%2B14%252C%2B15.jpg");  
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+header{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+textarea{
+    width: 100%;
+    height: auto;
+}
+
+#title{
+    font-size: 3rem;
+    color: rgb(7, 17, 7);
+    background-color: turquoise;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#tag-line{
+    background-color: yellowgreen;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.survey-form{
+    background: rgba(97, 139, 173, 0.8);
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    color: black;
+    font-weight: 800;
+}
